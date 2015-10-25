@@ -2,6 +2,7 @@ name: bseymour
 favicon: null
 layout_spectrum: 0.7862250353209674
 typography_spectrum: 0.9167064786888659
+title: "Ben Seymour's Grid"
 cta:
   domain: null
   bucket: null
